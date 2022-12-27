@@ -2,6 +2,10 @@
 
 Trying to learn using nvim as my daily editor for my own projects.
 
+## Setup
+
+- install [Neovim](https://github.com/neovim/neovim) from package
+
 ## Contents
 
 - Neovim
