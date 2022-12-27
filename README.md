@@ -5,6 +5,10 @@ Trying to learn using nvim as my daily editor for my own projects.
 ## Setup
 
 - install [Neovim](https://github.com/neovim/neovim) from package
+- edit the `screen.c` [nvim-ufo](https://github.com/kevinhwang91/nvim-ufo)
+- read this issue [nvim-ufo](https://github.com/kevinhwang91/nvim-ufo/issues/4)
+- duplicate [the repository](https://github.com/simulatedcode/dotfile_public)
+- PackerSync
 
 ## Contents
 
