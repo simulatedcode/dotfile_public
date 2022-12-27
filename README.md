@@ -29,6 +29,8 @@ Trying to learn using nvim as my daily editor for my own projects.
 - ahmedkhalf/project.nvim
 - mbbill/undotree
 
+---
+
 #### Folded
 
 - kevinhwang91/nvim-ufo
