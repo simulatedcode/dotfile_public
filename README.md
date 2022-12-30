@@ -8,7 +8,9 @@ Trying to learn using nvim as my daily editor for my own projects.
 - edit the `screen.c` [nvim-ufo](https://github.com/kevinhwang91/nvim-ufo)
 - read this issue [nvim-ufo](https://github.com/kevinhwang91/nvim-ufo/issues/4)
 - duplicate [the repository](https://github.com/simulatedcode/dotfile_public)
+- Install Jetbrain Mono Font & Meslo.
 - PackerSync
+- It's Time to work!
 
 ## Contents
 
@@ -58,3 +60,12 @@ Trying to learn using nvim as my daily editor for my own projects.
 - dinhhuy258/git.nvim
 - iamcco/markdown-preview.nvim
 - dnlhc/glance.nvim
+
+### Fish Shell
+
+- [exa](https://the.exa.website/)
+- [Fisher](https://github.com/jorgebucaran/fisher) - Plugin Manager
+- [z for fish](https://github.com/jethrokuan/z) - Directory Jumping
+- [peco](https://github.com/peco/peco) - Interactive Filtering
+- [ghq](https://github.com/x-motemen/ghq) - Local Git repository organizer
+- [Starship](https://starship.rs/) - Cross-Shell Prompt
